@@ -6,7 +6,7 @@
  - *Email: hart10@tut.by*
  - *Phone number: +375445454181*
  - *Telegram*
- 
+ - *Viber
  ## 3. Summary
 My goal is to do what I'm interested in. For me, it is important that the result of the work depends more on the effort I spent, and not on external factors.
 It's interesting to work in a team.
