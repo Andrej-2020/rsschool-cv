@@ -1,12 +1,12 @@
 # [rsschool-cv](https://Andrej-2020.github.io/rsschool-cv/cv)
 # Resume/CV
 ## 1. First Name, Last Name
-      Andrej Pavlov
+    Andrej Pavlov 
 ## 2. Contact Info
  - *Email: hart10@tut.by*
  - *Phone number: +375445454181*
  - *Telegram*
- - *Viber
+ - *Viber*
  ## 3. Summary
 My goal is to do what I'm interested in. For me, it is important that the result of the work depends more on the effort I spent, and not on external factors.
 It's interesting to work in a team.
