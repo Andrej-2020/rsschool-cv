@@ -28,5 +28,4 @@ Coding experience is a contribution to solving tasks in the course of training c
 ## 7. Education
 Last year I completed the course "Java trainings" of the it-Academy.
 ## 8. English
-A1 
-I am currently learning English using the "Puzzle English" app. I take one or two classes a day.
+A1 basic knowledge
